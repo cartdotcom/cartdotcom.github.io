@@ -5,9 +5,7 @@ filename: reporting-backend-changelog.md
 ---
 ## Reporting Backend Changelog
 
-* Unordered list item 1
-* Unordered list item 2
-  * Nested unordered item
-1. Ordered list item 1
-2. Ordered list item 2
-   1. Nested ordered item
+* v272 Updated sellable inventory calculation.
+* v196 Added return rate metrics.
+* v186 Added estimated sales metrics for Amazon. Sale data include orders that have not shipped.
+
