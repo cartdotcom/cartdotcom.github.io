@@ -1,8 +1,9 @@
 ---
-title: ABOUT PAGE
+title: Reporting UI Changelog
 layout: default
 filename: reporting-ui-changelog.md
 ---
+## Reporting UI Changelog
 * Unordered list item 1
 * Unordered list item 2
   * Nested unordered item
